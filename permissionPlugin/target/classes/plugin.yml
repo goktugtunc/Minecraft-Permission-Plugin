@@ -1,0 +1,10 @@
+name: permissionPlugin
+version: '1.0-SNAPSHOT'
+main: com.gotunc.permissionPlugin.PermissionPlugin
+api-version: '1.18'
+commands:
+  yetki:
+    description: "yetki komutudur. Kullanım: /<command> (<ver> <oyuncu> <grup ismi>) veya <listele>"
+    usage: /<command> <ver/listele/al> <oyuncu> <grup ismi>
+    permission: permissionPlugin.grup
+    permission-message: Bu komutu kullanmak için izniniz yok.

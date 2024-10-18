@@ -1,0 +1,11 @@
+com\gotunc\permissionPlugin\Listeners\PlayerSendMessage.class
+com\gotunc\permissionPlugin\Classes\PlayerPermissionClass.class
+com\gotunc\permissionPlugin\PermissionManager.class
+com\gotunc\permissionPlugin\Listeners\PlayerChangeGamemode.class
+com\gotunc\permissionPlugin\DatabaseProcesses.class
+com\gotunc\permissionPlugin\Listeners\PlayerJoin.class
+com\gotunc\permissionPlugin\Listeners\PlayerQuit.class
+com\gotunc\permissionPlugin\PermissionPlugin.class
+com\gotunc\permissionPlugin\fileProcesses.class
+com\gotunc\permissionPlugin\Classes\Groups.class
+com\gotunc\permissionPlugin\GroupCommand.class

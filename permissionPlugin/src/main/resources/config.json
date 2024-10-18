@@ -1,0 +1,48 @@
+{
+  "admin": {
+    "minecraft.command.kick": {
+      "command": "kick"
+    },
+    "minecraft.command.ban": {
+      "command": "ban"
+    },
+    "minecraft.command.op": {
+      "command": "op"
+    }
+  },
+  "moderator": {
+    "minecraft.command.kick": {
+      "command": "kick"
+    },
+    "minecraft.command.warn": {
+      "command": "warn"
+    }
+  },
+  "Vip": {
+    "minecraft.command.help": {
+      "command": "help"
+    },
+    "minecraft.command.tpa": {
+      "command": "tpa"
+    }
+  },
+  "Oyuncu": {
+    "minecraft.command.help": {
+      "command": "help"
+    },
+    "minecraft.command.kick": {
+      "command": "kick"
+    },
+    "menuPlugin.menu": {
+      "command": "menu"
+    },
+    "claim.claim": {
+      "command": "claim"
+    }
+  },
+  "Ziyaretci": {
+    "minecraft.command.help": {
+      "command": "help"
+    }
+  }
+}
